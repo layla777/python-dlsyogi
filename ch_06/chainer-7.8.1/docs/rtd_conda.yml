@@ -1,0 +1,7 @@
+# Conda environment definition to build documentation on RTD
+
+name: chainer-docs
+dependencies:
+  - python=3.7
+  - numpy=1.17.4
+  - cmake

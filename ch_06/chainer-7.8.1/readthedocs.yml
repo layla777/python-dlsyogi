@@ -1,0 +1,9 @@
+name: chainer
+type: sphinx
+base: docs/source
+requirements_file: docs/requirements.txt
+conda:
+  file: docs/rtd_conda.yml
+python:
+  version: 3.7
+  setup_py_install: true
