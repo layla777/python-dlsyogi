@@ -1,0 +1,240 @@
+V2
+N+undertaker
+N-Starbound
+'Max_Moves:256
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-600-10+undertaker+Starbound+20160111220003
+$START_TIME:2016/01/11 22:00:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:undertaker+70f8ed7059c0841881e65379ea2b2040:Starbound+231e06b12aae20c718d56297c17fce94
+'black_rate:undertaker+70f8ed7059c0841881e65379ea2b2040:2566.0
+'white_rate:Starbound+231e06b12aae20c718d56297c17fce94:2548.0
++7776FU
+T3
+-8384FU
+T0
+'** 0
++5756FU
+T5
+-8485FU
+T51
+'** 86
++8877KA
+T2
+-5142OU
+T32
+'** 9
++2858HI
+T6
+-4232OU
+T25
+'** 61
++5948OU
+T3
+-3334FU
+T10
+'** 61
++5655FU
+T8
+-2233KA
+T19
+'** 77
++4838OU
+T4
+-3222OU
+T12
+'** 77
++7968GI
+T6
+-4344FU
+T28
+'** 75
++3828OU
+T2
+-6152KI
+T35
+'** 78
++6857GI
+T5
+-5243KI
+T16
+'** 85
++1918KY
+T1
+-1112KY
+T11
+'** 85
++2819OU
+T3
+-2211OU
+T34
+'** 109
++3928GI
+T9
+-3324KA
+T35
+'** 88
++4939KI
+T10
+-7374FU
+T14
+'** 73
++5746GI
+T30
+-3122GI
+T18
+'** 93
++3736FU
+T1
+-8586FU
+T8
+'** 93
++8786FU
+T3
+-8173KE
+T56
+'** 110
++7759KA
+T14
+-4131KI
+T14
+'** 51
++2726FU
+T112
+-7162GI
+T11
+'** -9
++2625FU
+T1
+-2442KA
+T14
+'** 51
++7675FU
+T22
+-8284HI
+T9
+'** -106
++5878HI
+T6
+-7475FU
+T6
+'** -273
++7875HI
+T3
+-5354FU
+T9
+'** -258
++7576HI
+T1
+-0075FU
+T8
+'** -267
++7656HI
+T2
+-6253GI
+T17
+'** -312
++5658HI
+T15
+-4445FU
+T9
+'** -340
++4645GI
+T2
+-5455FU
+T33
+'** -348
++5855HI
+T2
+-0044FU
+T11
+'** -588
++5575HI
+T24
+-5364GI
+T11
+'** -674
++7578HI
+T4
+-4445FU
+T7
+'** -642
++0074FU
+T6
+-7365KE
+T5
+'** -642
++7473TO
+T2
+-6557NK
+T3
+'** -642
++7363TO
+T4
+-4233KA
+T7
+'** -609
++7871RY
+T10
+-3399UM
+T3
+'** -900
++8977KE
+T7
+-5747NK
+T14
+'** -1218
++2524FU
+T16
+-0025KY
+T3
+'** -926
++6958KI
+T133
+-4758NK
+T5
+'** -1911
++5937KA
+T2
+-2528NY
+T9
+'** -2407
++3928KI
+T3
+-0039GI
+T9
+'** -2714
++0027KY
+T10
+-3928NG
+T9
+'** -3631
++3728KA
+T3
+-0038GI
+T9
+'** -3906
+%TORYO
+'P1-KY * +RY *  *  * -KI-KE-OU
+'P2 *  *  *  *  *  *  * -GI-KY
+'P3-FU *  * +TO * -KI * -FU-FU
+'P4 * -HI * -GI *  * -FU+FU * 
+'P5 *  *  *  *  * -FU *  *  * 
+'P6 * +FU *  *  *  * +FU *  * 
+'P7+FU * +KE+FU *  *  * +KY+FU
+'P8 *  *  *  * -NK * -GI+KA+KY
+'P9-UM *  *  *  *  *  * +KE+OU
+'P+00FU00FU00FU00FU00FU00GI
+'P-00FU00KI00KI
+'+
+'summary:toryo:undertaker lose:Starbound win
+'$END_TIME:2016/01/11 22:20:17

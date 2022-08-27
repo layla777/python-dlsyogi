@@ -1,0 +1,615 @@
+V2
+N+YssF_6t_x1
+N-BrilliantDisguise
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+YssF_6t_x1+BrilliantDisguise+20160508010007
+$START_TIME:2016/05/08 01:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:BrilliantDisguise+4d2975b766a2dde6e4b9208679426ade
+'black_rate:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:3039.0
+'white_rate:BrilliantDisguise+4d2975b766a2dde6e4b9208679426ade:2976.0
++7776FU
+T0
+'** 0 7g7f
+-8384FU
+T0
+'** 0
++7968GI
+T0
+'** 0 7i6h
+-7162GI
+T2
+'** 145
++6766FU
+T0
+'** 0 6g6f
+-5354FU
+T8
+'** 162
++5756FU
+T0
+'** 0 5g5f
+-3334FU
+T1
+'** 121
++3948GI
+T0
+'** 0 3i4h
+-3142GI
+T1
+'** 100
++6978KI
+T20
+'** 25 6i7h 4a3b 2g2f 7c7d 4i5h 8a7c 5i6i 5a4a 3g3f 6c6d 5h6g
+-4233GI
+T0
+'** 1
++4857GI
+T20
+'** 38 4h5g 8d8e 6h7g 2b3a 5i6i 5a4b 3g3f 4c4d 2g2f 6a5b 5g4f
+-6152KI
+T15
+'** -84
++5969OU
+T20
+'** 39 5i6i 6c6d 5g4f 6b6c 3g3f 4a3b 4i5h 7c7d 6h7g 5a4a 8h7i
+-5142OU
+T32
+'** 10
++5746GI
+T20
+'** 67 5g4f 6b5c 3g3f 4b3b 2g2f 7c7d 2f2e 2b3a 6f6e 5c4d 2i3g
+-4232OU
+T8
+'** -79
++3736FU
+T7
+'** 47 3g3f 8d8e 2i3g 4c4d 2h5h 5b4c 5f5e 5d5e 4f5e 3d3e 5h5f
+-4344FU
+T1
+'** -67
++5655FU
+T20
+'** 34 5f5e 4d4e 4f4e 5d5e 2h5h 6b5c 5h5e 5c4d 4e4d 3c4d 5e5h
+-4445FU
+T15
+'** -129
++4645GI
+T0
+'** 2 4f4e 5d5e 2h5h 6b5c 5h5e 5c4d 4e4d 3c4d 5e5h 5b4c S*5d
+-5455FU
+T17
+'** -143
++2858HI
+T0
+'** -46 2h5h 6b5c P*5d 5c4d 2i3g 5b4c 8h7g 3c4b 4e4d 4c4d S*4e
+-6253GI
+T13
+'** -172
++5855HI
+T0
+'** 18 5h5e 5c4d 4e4d 3c4d 5e5h 5b4c 6f6e P*5e 6h6g 8b5b 2i3g
+-5344GI
+T28
+'** -176
++4544GI
+T0
+'** 15 4e4d 3c4d 5e5h 8d8e 6f6e P*5e 6h6g 8e8f 8g8f 8b8f P*8g
+-3344GI
+T136
+'** -102
++5558HI
+T0
+'** -51 5e5h 4d4e 6f6e 2b8h+ 7h8h P*4f 4g4f 4e4f P*4d B*4g 6i7h
+-8485FU
+T16
+'** -157
++6665FU
+T40
+'** -13 6f6e P*5e 6h6g 8e8f 8g8f 8b8f P*8g 8f8b P*5f 5e5f 6g5f
+-0055FU
+T40
+'** -280
++6867GI
+T0
+'** -103 6h6g
+-7374FU
+T15
+'** -256
++0056FU
+T40
+'** 0 P*5f 5e5f 6g5f 8e8f 8g8f 8b8f P*8g 8f8e 2i3g 8a7c S*4e
+-8173KE
+T17
+'** -425
++5655FU
+T40
+'** 56 5f5e 7c6e P*6f P*5g 5h6h 8e8f 8g8f 8b8f P*8g 8f8b 6f6e
+-7365KE
+T9
+'** -439
++0066FU
+T30
+'** 0 P*6f P*5g 5h2h 8e8f 8g8f 4d5e 6f6e S*6f S*6h 6f6g+ 6h6g
+-0057GI
+T43
+'** -504
++5859HI
+T40
+'** 49 5h5i 8e8f 8g8f P*5h 6g5h 8b8f P*8g 5g5h+ 4i5h P*5g 8g8f
+-0058FU
+T22
+'** -304
++6758GI
+T25
+'** -146 6g5h 8e8f 8g8f 8b8f P*8g P*4h 4i3i 8f7f 5h5g 6e5g 5i5g
+-8586FU
+T29
+'** -258
++8786FU
+T0
+'** -143 8g8f 8b8f P*8g 8f7f 5h5g 6e5g 5i5g P*5f 5g5i 7f7h+ 6i7h
+-8286HI
+T43
+'** -264
++0087FU
+T0
+'** -182 P*8g P*4h 8g8f 4h4i+ 5h4i G*4h 4i4h 5g4h 6f6e 4h5i+ 6i5i
+-8676HI
+T13
+'** -324
++5857GI
+T40
+'** -266 5h5g 6e5g 5i5g P*5f 5g5f P*8f 8g8f 7f7h+ 6i7h S*7f 5f5i
+-6557NK
+T10
+'** -294
++5957HI
+T17
+'** -68 5i5g P*5f 5g5f 7f7h+ 6i7h G*7f S*6g S*6i 7h6h 7f6g 6h6g
+-0056FU
+T5
+'** -294
++5756HI
+T34
+'** -295 5g5f P*8f 8g8f 7f7h+ 6i7h S*7f 7h6i 7f6g+ 5f5h 6g5h 4i5h
+-0086FU
+T21
+'** -335
++5657HI
+T18
+'** -217 5f5g 8f8g+ 5g8g P*8f 8g7g S*8g S*6g 8g8h 7g7f 8h8i 7h8h
+-4455GI
+T26
+'** -509
++0077GI
+T40
+'** -287 S*7g P*5f 5g6g 7f7g+ 7h7g 8f8g+ 7g8g S*5g P*5c 5b4b R*8b
+-0056GI
+T24
+'** -480
++7776GI
+T40
+'** -283 7g7f 5f5g P*5c 5b5c R*8b R*4b 8b8f+ 4b4g+ 8f8b 4g4b 8b4b
+-5657NG
+T10
+'** -566
++0053FU
+T40
+'** -83 P*5c 8f8g+ 7f8g 5b5c P*5h P*4h 4i3i 5g4g N*5i P*8f 8g8f
+-5242KI
+T9
+'** -859
++0054KE
+T40
+'** -87 N*5d 4b5c P*5h 8f8g+ 7f8g R*6g 7h6g 5g6g R*7b P*5b 4i5i
+-8687TO
+T24
+'** -522
++7687GI
+T40
+'** -219 7f8g P*4h 5d4b+ 4a4b 5c5b+ 4b5b R*8b P*5a G*5c N*6b 5c5b
+-0048FU
+T31
+'** -759
++4939KI
+T8
+'** -519 4i3i P*5h S*6h 5e6f 6i7i 5h5i+ 5d4b+ 4a4b 6h5i N*6g
+-0058FU
+T12
+'** -631
++0068GI
+T27
+'** -628 S*6h 5e6f 6h5g 5h5i+ 6i5i 6f5g 5d4b+ 4a4b 8h2b+ 3b2b B*7g
+-5566GI
+T11
+'** -761
++6979OU
+T29
+'** -533 6i7i 5g6h 7h6h R*5i P*6i S*6g 5d4b+ 4a4b S*4c 3b4c R*4f
+-5859TO
+T8
+'** -932
++6859GI
+T43
+'** -418 6h5i R*5f 8h6f 2b6f 5d4b+ 4a4b S*7g 5g6g G*6i 6g7g 8i7g
+-0086FU
+T81
+'** -820
++8786GI
+T40
+'** -260 8g8f 5g6g 5d4b+ 4a4b 5c5b+ 4b5b R*5d R*5c 5d5c+ 5b5c R*4f
+-5767NG
+T3
+'** -820
++5442NK
+T37
+'** -947 5d4b+
+-4142KI
+T0
+'** -1101
++5352TO
+T40
+'** -1066 5c5b+ 4b5b R*5d N*8g 7h8g R*7h 7i6i 3b4c P*7i 7h8h+ 8g8h
+-4252KI
+T7
+'** -1097
++0054HI
+T32
+'** -1115 R*5d N*8g 7h8g R*7h 7i6i 3b4c P*7i 7h8h+ 8g8h 4c5d N*4f
+-0087KE
+T11
+'** -757
++7887KI
+T28
+'** -1118 7h8g R*7h 7i6i 3b4c P*7i 7h8h+ 8g8h 4c5d P*6h 6f5g+ 6h6g
+-0078HI
+T9
+'** -1376
++7969OU
+T30
+'** -1102 7i6i 3b4c P*7i 7h8h+ 8g8h 4c5d P*6h 6f5g+ 6h6g 2b8h+ G*6h
+-3243OU
+T0
+'** -1411
++0079FU
+T30
+'** -1300 P*7i 7h8h+ 8g8h 4c5d N*4f 5d4c P*6h 6f5g+ 6h6g 2b8h+ S*6h
+-7888RY
+T32
+'** -1325
++8788KI
+T0
+'** -1262 8g8h 4c5d P*6h 6f5g+ N*4f 5d4c 6h6g 2b8h+ S*6h R*5f 6h5g
+-4354OU
+T0
+'** -1325
++0068FU
+T29
+'** -929 P*6h 6f5g+ 6h6g 2b8h+ S*6h B*8g G*7h R*5f N*4f 5d4d P*5h
+-6657NG
+T9
+'** -1325
++6867FU
+T10
+'** -1255 6h6g 2b8h+ G*4e 5d4e S*4f 4e5d 4f5g 4h4i+ 3i4i R*2h S*3h
+-2288UM
+T8
+'** -1047
++0045KI
+T11
+'** -1192 G*4e 5d4e S*4f 4e5d 4f5g 4h4i+ 3i4i R*2h 5i4h B*8g S*7h
+-5445OU
+T30
+'** -1723
++0046GI
+T0
+'** -1261 S*4f 4e5d 4f5g 4h4i+ 3i4i R*2h R*5h B*8g S*7h 2h2i+ 7h8g
+-4554OU
+T3
+'** -1723
++4657GI
+T26
+'** -1267 4f5g 4h4i+ 3i4i R*2h R*5h B*8g S*7h 2h2i+ 7h8g 8h8g N*7h
+-0065KA
+T9
+'** -1270
++6958OU
+T20
+'** -502 6i5h 8h8i S*6f 6e8g+ 8f7g 4h4i+ 5h4i 8i6g 4i3h P*5f R*5e
+-8889UM
+T14
+'** -923
++0066GI
+T5
+'** -573 S*6f 6e8g+ 8f7g N*7e R*8b 7e6g+ 5h4h 6g5g 6f5g 8g7g 8b5b+
+-6587UM
+T15
+'** -1273
++8677GI
+T4
+'** -488 8f7g N*7e R*8b 8i6g 5h4h 5d4c N*5e 4c5c 7g6h 6g9d 6f7e
+-0075KE
+T18
+'** -1235
++0082HI
+T1
+'** -443 R*8b 8i6g 5h4h 5d4c N*5e 4c5c 7g6h 6g4e 6f7e 8g5d 7e6f
+-8967UM
+T9
+'** -838
++5848OU
+T11
+'** -388 5h4h 5d4c N*5e 4c5c 7g6h 6g4e 6f7e 8g5d 7e6f 5c4b P*5c
+-5443OU
+T57
+'** -828
++0055KE
+T0
+'** -532 N*5e 4c5c 7g6h 8g5d 6h6g 7e6g+ B*6e 5d6d P*5d 5c4b 8b5b+
+-4353OU
+T6
+'** -1023
++7768GI
+T23
+'** -597 7g6h 8g5d 6h6g 7e6g+ 5i5h P*5f 5h6g 5f5g+ 4h5g P*5f 6g5f
+-8776UM
+T42
+'** -862
++6867GI
+T20
+'** -225 6h6g 7e6g+ 4h3h G*6b B*6e 7f6e 6f6e 6g5g B*2f P*4d P*5d
+-7567NK
+T6
+'** -606
++4838OU
+T13
+'** -164 4h3h G*6b P*6d 5c6d 5e4c+ 7f4c B*5e 6d5c 5e1a+ P*4d L*5f
+-0062KI
+T10
+'** -562
++0064FU
+T9
+'** 35 P*6d 5c6d 5e4c+ 7f4c B*5e 6d5c 5e1a+ P*5d P*5e S*4d 5e5d
+-6364FU
+T6
+'** -721
++0054FU
+T20
+'** 222 P*5d 7f5d P*6c 6b6a B*6b 5c4b P*5c 5b6b 6c6b+ 4b3c 6b6a
+-7654UM
+T6
+'** -518
++0063FU
+T13
+'** 381 P*6c 6b6a B*6b 5c4b P*5c 5b6b 6c6b+ 4b3c 6b6a B*7f 5i4h
+-6261KI
+T6
+'** -455
++0062KA
+T2
+'** 245 B*6b 5c4b P*5c 5b6b 6c6b+ 4b3c 6b6a B*7f 5i4h G*3b 5c5b+
+-5342OU
+T28
+'** -311
++0053FU
+T0
+'** 468 P*5c 5b5c 6b5c+ 4b5c 6c6b+ 6a6b G*4c 5d4c 5e4c+ 5c6c B*4e
+-5262KI
+T2
+'** -152
++6362TO
+T20
+'** 530 6c6b+ P*4c 6b6a 4b3c 5g4f S*5f 2i3g 6g6f G*3b 3c4d 5e4c+
+-4233OU
+T35
+'** -8
++6261TO
+T20
+'** 465 6b6a B*7f 5i4h G*3b 5c5b+ R*6i G*5c 6g5g 5e4c+ 3b4c 6f5g
+-0032KI
+T6
+'** 89
++2937KE
+T9
+'** 649 2i3g 6g5g 8b3b+ 3c3b G*4c 5d4c 5e4c+ 3b4c 6f5g G*4b B*2b
+-6757NK
+T5
+'** 162
++8232RY
+T4
+'** 580 8b3b+ 3c3b G*4c 5d4c 5e4c+ 3b4c 6f5g G*4b N*4f B*7f B*2b
+-3332OU
+T11
+'** 289
++0043KI
+T8
+'** 779 G*4c 5d4c 5e4c+ 3b4c 6f5g G*4b 5c5b+ 4b5b G*4e B*6e B*2b
+-5443UM
+T0
+'** 289
++5543NK
+T20
+'** 737 5e4c+ 3b4c 6f5g S*3a G*4e 4c3b 4e3d 3b2b B*4d P*3c 3d2c
+-3243OU
+T1
+'** 211
++6657GI
+T7
+'** 861 6f5g G*3a 5c5b+ B*7g G*5c 4c3c 5b4b R*8h 5i6h R*5h G*4h
+-0042KI
+T5
+'** 364
++0055KE
+T9
+'** 1518 N*5e 4c3b B*5d P*4c G*5b N*3a 5b4b 3b4b G*2b 4b3c 2b3a
+-4333OU
+T8
+'** 998
++0051KA
+T20
+'** 1900 B*5a B*7f G*4c 7f4c G*4d 3c4d 5a4b+ R*8h 5i4h 4d5e 4b4c
+-0076KA
+T14
+'** 677
++0043KI
+T0
+'** 1687 G*4c 7f4c G*4d 3c4d 5a4b+ R*8h 5i4h 4d5e G*4e 5e6e 4b4c
+-7643KA
+T2
+'** 504
++0044KI
+T17
+'** 1894 G*4d 3c4d 5a4b+ R*8h 5i4h 4d5e G*4e 5e6e 4b4c 6e7e B*6f
+-3344OU
+T4
+'** 1000
++5142UM
+T5
+'** 1809 5a4b+ R*8h 5i4h 4d5e G*4e 5e6e 4b4c 6e7e B*6f 7e8e 6f8h
+-0088HI
+T2
+'** 798
++5948GI
+T6
+'** 1436 5i4h 4d5e G*4e 5e6e 4b4c 6e7e B*6f 7e8e 6f8h R*6i 4e3d
+-4455OU
+T20
+'** 964
++0045KI
+T0
+'** 1590 G*4e 5e6e 4b4c 6e7e B*6f 7e8e 6f8h R*6i 4e3d N*1e P*8f
+-5565OU
+T0
+'** 964
++4243UM
+T19
+'** 1774 4b4c 6e7e B*6f 7e8e 6f8h R*6i 4e3d N*1e R*8a P*8d P*8f
+-6575OU
+T1
+'** 977
++0066KA
+T18
+'** 1766 B*6f 7e8e 6f8h R*6i 4e3d N*1e R*8a P*8d P*8f 8e7e 5g6f
+-7585OU
+T2
+'** 1039
++6688KA
+T6
+'** 1766 6f8h R*6i 4e3d N*1e R*8a P*8d P*8f 8e7e 5g6f 6i6f+ 8a8d+
+-0069HI
+T4
+'** 1039
++4534KI
+T4
+'** 1710 4e3d G*5h P*8f 8e8d 8h1a+ 6i3i+ 4h3i S*4i 3h2h G*3h 3i3h
+-0065KE
+T8
+'** 1145
++8811UM
+T20
+'** 1969 8h1a+ P*3c 1a2a P*8f 4c6e 6d6e N*7g 8e7f N*6h 7f8g 2a6e
+-0086KI
+T7
+'** 927
++0081HI
+T9
+'** 2373 R*8a S*8d 4c2a 6i7i+ N*9f P*8c 9f8d P*5f 5g5f S*5g L*4i
+-0084FU
+T5
+'** 1452
++0087FU
+T9
+'** 2770 P*8g 8f8g L*8h 8g8h 1a8h 6e5g+ G*8f 8e8f 8a8d+
+-8687KI
+T15
+'** 1850
++0089KY
+T0
+'** 2747 L*8i S*8f 8i8g 8f8g 4c2a L*7f 8a9a+ 6e5g+ 4h5g S*4i 3i4i
+-0086GI
+T13
+'** 1856
++8987KY
+T6
+'** 2790 8i8g 8f8g 4c2a L*7f 2a6e 6d6e N*7g 7f7g 1a7g S*8f 8a8d+
+-8687GI
+T2
+'** 1856
++4365UM
+T17
+'** 3293 4c6e 6d6e N*7g 8e7f 8a8d+ G*7e 8d8g 7f8g S*7h 8g8f 7h6i
+-6465FU
+T54
+'** 2262
++0077KE
+T0
+'** 3810 N*7g 8e7f 8a8d+ G*7e 8d8g 7f8g S*7h 8g8f 7h6i S*8g 6i7h
+-8576OU
+T3
+'** 2466
++8184RY
+T16
+'** 3925 8a8d+ G*8f 8d7d P*7e G*8e L*3c 7d7e 7f6g 7e8f S*4i 3i4i
+-0075KE
+T33
+'** 2318
++1155UM
+T20
+'** 4544 1a5e L*8b 8d8b P*8c 8b8c P*8d 8c8d G*9d G*8f 7f6g 8f8g
+-0081KY
+T9
+'** 3190
++8481RY
+T9
+'** 5062 8d8a P*8b G*6h G*8e 6h6i P*5f 7g8e B*8h 5e5f 8h9i+ 8a9a
+-0083FU
+T4
+'** 3693
++8183RY
+T9
+'** 5485 8a8c B*9d G*8f 7f6g 8f8g S*4i 3i4i 6i4i+ 3h4i G*5h 4i3h
+-0094KA
+T4
+'** 3988
++0086KI
+T15
+'** 29964 G*8f 7f6g 5e5f 6g7g 8f8g 7e8g+ S*7h 7g7f 7h8g 7f7e 8g8f
+-7667OU
+T0
+'** 5223
++5556UM
+T9
+'** 29974 5e5f 6g5h L*5i 6i5i+ 4h5i 5h6i 8f8g S*4i 3i4i 9d4i+ 3h4i
+-6758OU
+T43
+'** 8900
++0059KY
+T0
+'** 29976 L*5i 6i5i+ 4h5i 5h6i 8f8g S*4i 3i4i 9d4i+ 3h4i P*4h 5g4h
+%TORYO
+'P1-KY *  * +TO *  *  * -KE * 
+'P2 *  *  *  *  *  *  *  *  * 
+'P3-FU+RY *  * +FU *  * -FU-FU
+'P4-KA * -FU *  *  * +KI *  * 
+'P5 *  * -KE-FU *  *  *  *  * 
+'P6 * +KI *  * +UM * +FU *  * 
+'P7+FU-GI+KE * +GI+FU+KE+FU+FU
+'P8 *  *  *  * -OU+GI+OU *  * 
+'P9+KY * +FU-HI+KY * +KI * +KY
+'P+00FU00FU
+'P-00FU00FU00FU00GI00KI
+'-
+'summary:toryo:YssF_6t_x1 win:BrilliantDisguise lose
+'$END_TIME:2016/05/08 01:51:13

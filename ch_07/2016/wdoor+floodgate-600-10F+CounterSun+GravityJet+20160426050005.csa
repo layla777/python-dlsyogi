@@ -1,0 +1,240 @@
+V2
+N+CounterSun
+N-GravityJet
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+CounterSun+GravityJet+20160426050005
+$START_TIME:2016/04/26 05:00:03
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:CounterSun+4d2975b766a2dde6e4b9208679426ade:GravityJet+4d2975b766a2dde6e4b9208679426ade
+'black_rate:CounterSun+4d2975b766a2dde6e4b9208679426ade:2882.0
+'white_rate:GravityJet+4d2975b766a2dde6e4b9208679426ade:2879.0
++7776FU
+T0
+'** 0
+-8384FU
+T0
+'** 0
++2726FU
+T0
+'** 0
+-3334FU
+T3
+'** 111
++2625FU
+T1
+'** 77
+-4132KI
+T0
+'** 97
++2524FU
+T4
+'** 35
+-2324FU
+T9
+'** 101
++2824HI
+T4
+'** 25
+-8485FU
+T0
+'** 101
++6978KI
+T6
+'** 70
+-8586FU
+T1
+'** 95
++8786FU
+T5
+'** 94
+-8286HI
+T14
+'** 134
++2434HI
+T1
+'** 77
+-2233KA
+T8
+'** 145
++5958OU
+T13
+'** 101
+-3122GI
+T1
+'** 109
++4938KI
+T3
+'** 105
+-8682HI
+T12
+'** 66
++0087FU
+T5
+'** 120
+-7162GI
+T25
+'** 97
++3736FU
+T78
+'** 74
+-7374FU
+T17
+'** 69
++2937KE
+T13
+'** 119
+-6273GI
+T27
+'** 99
++3435HI
+T26
+'** 65
+-3388UM
+T38
+'** 117
++7988GI
+T49
+'** 22
+-2133KE
+T145
+'** 63
++8977KE
+T77
+'** 91
+-7364GI
+T8
+'** 49
++3585HI
+T29
+'** 106
+-0084FU
+T15
+'** 9
++8515HI
+T55
+'** 154
+-0044KA
+T19
+'** 116
++1516HI
+T13
+'** 89
+-8272HI
+T79
+'** 114
++3635FU
+T5
+'** 304
+-7475FU
+T6
+'** 114
++0083KA
+T12
+'** 223
+-7273HI
+T43
+'** 81
++8356UM
+T29
+'** 255
+-7576FU
+T5
+'** 169
++0074FU
+T124
+'** 130
+-7677TO
+T39
+'** 169
++7473TO
+T9
+'** 135
+-7778TO
+T26
+'** 143
++7363TO
+T5
+'** 232
+-4488UM
+T19
+'** 127
++3928GI
+T5
+'** 232
+-7868TO
+T79
+'** 242
++5849OU
+T14
+'** 225
+-8844UM
+T12
+'** 93
++5674UM
+T34
+'** 248
+-0029KI
+T11
+'** 290
++3839KI
+T19
+'** 669
+-0062FU
+T13
+'** 589
++6364TO
+T16
+'** 728
+-2939KI
+T45
+'** 719
++4939OU
+T5
+'** 782
+-0052KE
+T10
+'** 734
++0034KI
+T60
+'** 641
+-4455UM
+T21
+'** 707
++6453TO
+T6
+'** 938
+-0027FU
+T10
+'** 922
++5343TO
+T13
+'** 639
+-2728TO
+T0
+'** -100000
+%TORYO
+'P1-KY-KE * -KI-OU *  *  * -KY
+'P2 *  *  * -FU-KE * -KI-GI * 
+'P3-FU *  *  *  * +TO-KE * -FU
+'P4 * -FU+UM *  *  * +KI *  * 
+'P5 *  *  *  * -UM * +FU *  * 
+'P6 *  *  *  *  *  *  *  * +HI
+'P7+FU+FU * +FU+FU+FU+KE * +FU
+'P8 *  *  * -TO *  *  * -TO * 
+'P9+KY *  *  *  *  * +OU * +KY
+'P+00FU00FU00FU00FU00GI00HI
+'P-00GI00GI00KI
+'+
+'summary:toryo:CounterSun lose:GravityJet win
+'$END_TIME:2016/04/26 05:25:33

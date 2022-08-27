@@ -1,0 +1,251 @@
+V2
+N+ExpressAir
+N-gekisasi_xx
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+ExpressAir+gekisasi_xx+20160424050003
+$START_TIME:2016/04/24 05:00:03
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:ExpressAir+4d2975b766a2dde6e4b9208679426ade:gekisasi_xx+937db30ec67431edc4dfaf90555799ab
+'black_rate:ExpressAir+4d2975b766a2dde6e4b9208679426ade:2721.0
+'white_rate:gekisasi_xx+937db30ec67431edc4dfaf90555799ab:3114.0
++7776FU
+T0
+'** 0
+-3334FU
+T4
++2726FU
+T0
+'** 0
+-8384FU
+T2
++2625FU
+T2
+'** 68
+-8485FU
+T3
++6978KI
+T0
+'** 89
+-4132KI
+T2
++2524FU
+T1
+'** 62
+-2324FU
+T2
++2824HI
+T0
+'** 62
+-8586FU
+T2
++8786FU
+T3
+'** 72
+-8286HI
+T6
++2434HI
+T4
+'** 72
+-2233KA
+T2
++5958OU
+T5
+'** 71
+-3122GI
+T9
++3736FU
+T26
+'** 111
+-5142OU
+T11
++2937KE
+T15
+'** 166
+-7162GI
+T12
++3938GI
+T35
+'** 147
+-6151KI
+T26
++3435HI
+T26
+'** 137
+-7374FU
+T33
++0087FU
+T16
+'** 176
+-8684HI
+T23
++3745KE
+T49
+'** 228
+-3388UM
+T29
++7988GI
+T16
+'** 29
+-0033FU
+T4
++8877GI
+T20
+'** 9
+-4344FU
+T28
++7766GI
+T23
+'** 24
+-4445FU
+T60
++3545HI
+T17
+'** 4
+-4231OU
+T13
++0024FU
+T21
+'** -69
+-0054KA
+T32
++4544HI
+T19
+'** -19
+-8173KE
+T31
++0095KA
+T22
+'** 29
+-8485HI
+T28
++9586KA
+T19
+'** -23
+-0042FU
+T15
++7675FU
+T21
+'** 34
+-0094KE
+T32
++4454HI
+T16
+'** -65
+-9486KE
+T2
++8786FU
+T48
+'** -68
+-8586HI
+T3
++0087FU
+T33
+'** -134
+-8666HI
+T6
++6766FU
+T131
+'** -135
+-5354FU
+T4
++0044KE
+T93
+'** -97
+-0034KA
+T12
++4432NK
+T28
+'** -164
+-3132OU
+T3
++0068KI
+T61
+'** -135
+-0027FU
+T8
++7574FU
+T7
+'** -110
+-7365KE
+T12
++7473TO
+T4
+'** -167
+-6273GI
+T5
++3827GI
+T10
+'** -120
+-0037GI
+T28
++2738GI
+T25
+'** -305
+-0077FU
+T40
++7879KI
+T16
+'** -781
+-0028HI
+T8
++0018HI
+T11
+'** -709
+-2818RY
+T11
++1918KY
+T2
+'** -1078
+-0028HI
+T4
++4939KI
+T43
+'** -1394
+-2818RY
+T13
++5849OU
+T15
+'** -1685
+-3738NG
+T8
++3938KI
+T1
+'** -2293
+-0037KY
+T9
++2423TO
+T4
+'** -3249
+-2223GI
+T10
++0043KA
+T12
+'** -5175
+-3243OU
+T15
+%TORYO
+'P1-KY *  *  * -KI *  * -KE-KY
+'P2 *  *  *  *  * -FU *  *  * 
+'P3-FU * -GI-FU * -OU-FU-GI-FU
+'P4 *  *  *  * -FU * -KA *  * 
+'P5 *  *  * -KE *  *  *  *  * 
+'P6 *  *  * +FU *  * +FU *  * 
+'P7+FU+FU-FU * +FU+FU-KY * +FU
+'P8 *  *  * +KI *  * +KI * -RY
+'P9+KY+KE+KI *  * +OU *  *  * 
+'P+00FU00FU00FU00GI00HI
+'P-00FU00GI00KA00KE
+'+
+'summary:toryo:ExpressAir lose:gekisasi_xx win
+'$END_TIME:2016/04/24 05:26:36

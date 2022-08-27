@@ -1,0 +1,258 @@
+V2
+N+SensitiveTraining
+N-TelegraphRoad
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+SensitiveTraining+TelegraphRoad+20160504173002
+$START_TIME:2016/05/04 17:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:SensitiveTraining+61533a9557d689ebc49c70a4cb6df5c6:TelegraphRoad+4d2975b766a2dde6e4b9208679426ade
+'black_rate:SensitiveTraining+61533a9557d689ebc49c70a4cb6df5c6:2855.0
+'white_rate:TelegraphRoad+4d2975b766a2dde6e4b9208679426ade:2973.0
++7776FU
+T0
+'** 0
+-8384FU
+T0
+'** 0
++2726FU
+T0
+'** 0
+-4132KI
+T2
+'** 125
++2625FU
+T36
+'** 146
+-3334FU
+T0
+'** 93
++2524FU
+T5
+'** 146
+-2324FU
+T1
+'** 110
++2824HI
+T44
+'** 85
+-8485FU
+T0
+'** 143
++6978KI
+T34
+'** 156
+-8586FU
+T0
+'** 102
++8786FU
+T30
+'** 120
+-8286HI
+T0
+'** 130
++2434HI
+T19
+'** 106
+-2233KA
+T0
+'** 138
++5958OU
+T17
+'** 94
+-5152OU
+T0
+'** 83
++3436HI
+T18
+'** 135
+-8684HI
+T1
+'** 91
++3626HI
+T11
+'** 141
+-3388UM
+T25
+'** 123
++7988GI
+T21
+'** 191
+-0044KA
+T25
+'** 192
++2624HI
+T32
+'** 158
+-8488RY
+T16
+'** 129
++7888KI
+T0
+'** 158
+-4488UM
+T80
+'** 122
++2484HI
+T15
+'** 89
+-8899UM
+T186
+'** 163
++8481RY
+T9
+'** 146
+-0082FU
+T131
+'** -2
++0083FU
+T25
+'** 184
+-8283FU
+T9
+'** -51
++8191RY
+T31
+'** 82
+-9989UM
+T29
+'** -36
++0056KY
+T26
+'** 43
+-0044KE
+T24
+'** -28
++5653NY
+T19
+'** 41
+-5253OU
+T6
+'** -162
++0045KE
+T26
+'** -85
+-5354OU
+T13
+'** -358
++4746FU
+T29
+'** -504
+-0064GI
+T13
+'** -410
++4948KI
+T36
+'** -729
+-0055KY
+T15
+'** -712
++0041HI
+T13
+'** -768
+-0056FU
+T8
+'** -606
++5756FU
+T19
+'** -604
+-4456KE
+T27
+'** -640
++0057FU
+T46
+'** -841
+-0068KI
+T17
+'** -890
++5847OU
+T31
+'** -1223
+-5648NK
+T6
+'** -946
++3948GI
+T89
+'** -1129
+-8967UM
+T5
+'** -946
++4161RY
+T3
+'** -1129
+-6758UM
+T7
+'** -1156
++4738OU
+T0
+'** -1129
+-0026FU
+T5
+'** -1156
++0018KA
+T10
+'** -1450
+-0027KI
+T13
+'** -4675
++1827KA
+T0
+'** -3873
+-2627TO
+T6
+'** -4802
++3827OU
+T0
+'** -4495
+-0026FU
+T26
+'** -5782
++2728OU
+T0
+'** -5823
+-5848UM
+T5
+'** -5838
++6152RY
+T17
+'** -6258
+-5465OU
+T3
+'** -6506
++0066FU
+T8
+'** -6927
+-6576OU
+T27
+'** -8279
++0088KE
+T10
+'** -9610
+-7677OU
+T0
+'** -100000
+%TORYO
+'P1+RY * -GI *  *  * -GI-KE-KY
+'P2 *  *  *  * +RY * -KI *  * 
+'P3-FU-FU-FU-FU * -FU *  * -FU
+'P4 *  *  * -GI *  *  *  *  * 
+'P5 *  *  *  * -KY+KE *  *  * 
+'P6 *  *  * +FU * +FU * -FU * 
+'P7+FU * -OU * +FU * +FU * +FU
+'P8 * +KE * -KI * -UM * +OU * 
+'P9 *  *  *  *  *  *  * +KE+KY
+'P+00FU00FU00FU00KI00KI
+'P-00FU00FU00GI00KA00KY
+'+
+'summary:toryo:SensitiveTraining lose:TelegraphRoad win
+'$END_TIME:2016/05/04 17:54:53

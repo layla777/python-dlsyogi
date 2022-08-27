@@ -1,0 +1,168 @@
+V2
+N+G_512_Cortex-A7_2c
+N-musashi16s
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+G_512_Cortex-A7_2c+musashi16s+20160729183003
+$START_TIME:2016/07/29 18:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:G_512_Cortex-A7_2c+ab5facc17256617a1e957f6f71836bc7:musashi16s+2d2f20621962354077011945b644c987
+'black_rate:G_512_Cortex-A7_2c+ab5facc17256617a1e957f6f71836bc7:2857.0
+'white_rate:musashi16s+2d2f20621962354077011945b644c987:3010.0
++7776FU
+T0
+-3334FU
+T4
++2726FU
+T0
+-4344FU
+T4
++2625FU
+T0
+-2233KA
+T3
++3948GI
+T0
+-3142GI
+T5
++5968OU
+T0
+-4243GI
+T6
++6878OU
+T0
+-7162GI
+T6
++4958KI
+T16
+'** 177
+-4132KI
+T13
++5756FU
+T20
+'** 232
+-6364FU
+T22
++6766FU
+T36
+'** 220
+-7374FU
+T18
++5867KI
+T15
+'** 234
+-8173KE
+T10
++8877KA
+T43
+'** 240
+-9394FU
+T19
++7888OU
+T20
+'** 195
+-8384FU
+T20
++4857GI
+T41
+'** 123
+-9495FU
+T6
++6978KI
+T37
+'** 110
+-6152KI
+T16
++3736FU
+T30
+'** 89
+-5141OU
+T31
++7759KA
+T48
+'** 81
+-3342KA
+T24
++1716FU
+T9
+'** 108
+-5354FU
+T6
++5768GI
+T31
+'** 110
+-4131OU
+T8
++6877GI
+T20
+'** 187
+-6253GI
+T4
++9998KY
+T39
+'** 80
+-7385KE
+T81
++7786GI
+T4
+'** 35
+-8262HI
+T5
++8899OU
+T5
+'** 86
+-6465FU
+T24
++6665FU
+T4
+'** 0
+-6265HI
+T5
++0066FU
+T37
+'** 0
+-6561HI
+T13
++7988GI
+T13
+'** 0
+-3122OU
+T16
++5915KA
+T26
+'** -64
+-0065FU
+T9
++6665FU
+T17
+'** -125
+-4215KA
+T11
++1615FU
+T13
+'** -302
+%TORYO
+'P1-KY *  * -HI *  *  * -KE-KY
+'P2 *  *  *  * -KI * -KI-OU * 
+'P3 *  *  *  * -GI-GI * -FU-FU
+'P4 * -FU-FU * -FU-FU-FU *  * 
+'P5-FU-KE * +FU *  *  * +FU+FU
+'P6 * +GI+FU * +FU * +FU *  * 
+'P7+FU+FU * +KI * +FU *  *  * 
+'P8+KY+GI+KI *  *  *  * +HI * 
+'P9+OU+KE *  *  *  *  * +KE+KY
+'P+00FU00KA
+'P-00KA
+'-
+'summary:toryo:G_512_Cortex-A7_2c win:musashi16s lose
+'$END_TIME:2016/07/29 18:45:52

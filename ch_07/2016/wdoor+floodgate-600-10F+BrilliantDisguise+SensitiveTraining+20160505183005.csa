@@ -1,0 +1,267 @@
+V2
+N+BrilliantDisguise
+N-SensitiveTraining
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+BrilliantDisguise+SensitiveTraining+20160505183005
+$START_TIME:2016/05/05 18:30:03
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:BrilliantDisguise+4d2975b766a2dde6e4b9208679426ade:SensitiveTraining+61533a9557d689ebc49c70a4cb6df5c6
+'black_rate:BrilliantDisguise+4d2975b766a2dde6e4b9208679426ade:2999.0
+'white_rate:SensitiveTraining+61533a9557d689ebc49c70a4cb6df5c6:2821.0
++7776FU
+T0
+'** 0
+-8384FU
+T0
+'** 0
++2726FU
+T0
+'** 0
+-3334FU
+T11
+'** 119
++2625FU
+T0
+'** 112
+-8485FU
+T7
+'** 83
++2524FU
+T1
+'** 52
+-2324FU
+T10
+'** 83
++2824HI
+T0
+'** 96
+-4132KI
+T42
+'** 185
++6978KI
+T0
+'** 121
+-8586FU
+T26
+'** 181
++8786FU
+T0
+'** 78
+-8286HI
+T35
+'** 175
++2434HI
+T0
+'** 66
+-2233KA
+T87
+'** 129
++4938KI
+T1
+'** 86
+-8676HI
+T25
+'** 95
++8877KA
+T45
+'** 48
+-5152OU
+T16
+'** 61
++5958OU
+T34
+'** 89
+-6172KI
+T24
+'** 97
++7968GI
+T44
+'** 56
+-7182GI
+T136
+'** 66
++3928GI
+T25
+'** 69
+-3142GI
+T26
+'** 43
++3436HI
+T19
+'** 47
+-7636HI
+T12
+'** 15
++3736FU
+T0
+'** 74
+-7374FU
+T6
+'** 13
++2837GI
+T79
+'** 55
+-8273GI
+T29
+'** 25
++3635FU
+T25
+'** 22
+-7364GI
+T16
+'** 66
++0084FU
+T30
+'** 79
+-3377UM
+T11
+'** 115
++8977KE
+T21
+'** 188
+-0036FU
+T17
+'** 32
++3746GI
+T16
+'** 161
+-0082FU
+T12
+'** 261
++8483TO
+T14
+'** 275
+-8283FU
+T18
+'** 0
++0082FU
+T89
+'** 133
+-0028FU
+T6
+'** 61
++8281TO
+T9
+'** 133
+-2829TO
+T25
+'** 189
++8191TO
+T6
+'** 200
+-0054KE
+T26
+'** 249
++0081HI
+T33
+'** -6
+-5446KE
+T22
+'** -7
++4746FU
+T0
+'** 71
+-3637TO
+T4
+'** -184
++0061KA
+T23
+'** -55
+-5262OU
+T2
+'** -313
++3837KI
+T14
+'** -167
+-0039HI
+T17
+'** -57
++0049KE
+T32
+'** 166
+-0014KA
+T59
+'** 169
++0036KY
+T19
+'** 16
+-0038GI
+T53
+'** 326
++5869OU
+T20
+'** 450
+-3949RY
+T12
+'** 487
++0059KE
+T24
+'** 515
+-0076KE
+T4
+'** 738
++7785KE
+T15
+'** 743
+-4344FU
+T34
+'** 1032
++6877GI
+T91
+'** 1848
+-2919TO
+T3
+'** 2045
++6172UM
+T10
+'** 3175
+-6272OU
+T0
+'** 649
++0073FU
+T5
+'** 3481
+-6473GI
+T0
+'** 2339
++7776GI
+T1
+'** 3481
+-0065KY
+T4
+'** 2861
++8573NK
+T0
+'** 100000
+-7273OU
+T0
+'** 1265
++8171RY
+T0
+'** 100000
+%TORYO
+'P1+TO * +RY *  *  *  * -KE-KY
+'P2 *  *  *  *  * -GI-KI *  * 
+'P3-FU-FU-OU-FU-FU *  *  * -FU
+'P4 *  * -FU *  * -FU *  * -KA
+'P5 *  *  * -KY *  * +FU *  * 
+'P6 *  * +GI *  * +FU+KY *  * 
+'P7+FU *  * +FU+FU * +KI * +FU
+'P8 *  * +KI *  *  * -GI *  * 
+'P9+KY *  * +OU+KE-RY *  * -TO
+'P+00FU00GI00KE00KI
+'P-00FU00FU00KA00KE
+'-
+'summary:toryo:BrilliantDisguise win:SensitiveTraining lose
+'$END_TIME:2016/05/05 18:56:58

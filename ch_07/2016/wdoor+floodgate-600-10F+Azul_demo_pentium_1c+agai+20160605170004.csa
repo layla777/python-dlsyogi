@@ -1,0 +1,179 @@
+V2
+N+Azul_demo_pentium_1c
+N-agai
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+Azul_demo_pentium_1c+agai+20160605170004
+$START_TIME:2016/06/05 17:00:04
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Azul_demo_pentium_1c+29078f1444810875f17dbdd443434246:agai+dfa9bb0ae1693466183713daaf48e1cf
+'black_rate:Azul_demo_pentium_1c+29078f1444810875f17dbdd443434246:3045.0
+'white_rate:agai+dfa9bb0ae1693466183713daaf48e1cf:2945.0
++7776FU
+T3
+'** 0
+-3334FU
+T3
++2726FU
+T0
+'** 0
+-8384FU
+T2
++6978KI
+T0
+'** 0
+-4132KI
+T10
++5958OU
+T0
+'** 0
+-8485FU
+T23
++2625FU
+T0
+'** 0
+-2233KA
+T13
++8833UM
+T0
+'** 0
+-2133KE
+T3
++7988GI
+T0
+'** 0
+-3122GI
+T7
++8877GI
+T0
+'** 0
+-5142OU
+T9
++3948GI
+T0
+'** 0
+-7162GI
+T6
++3736FU
+T0
+'** 0
+-7374FU
+T12
++4837GI
+T0
+'** 0
+-6152KI
+T6
++2524FU
+T0
+'** 0
+-2324FU
+T4
++2824HI
+T0
+'** 0
+-2223GI
+T4
++2428HI
+T0
+'** 0
+-0024FU
+T4
++0046KA
+T0
+'** 0
+-6273GI
+T4
++4624KA
+T0
+'** 0
+-4344FU
+T4
++2446KA
+T0
+'** 0
+-7364GI
+T4
++0024FU
+T0
+'** 0
+-2314GI
+T4
++1716FU
+T0
+'** 0
+-1425GI
+T4
++2917KE
+T0
+'** 0
+-2516GI
+T5
++2423TO
+T0
+'** 0
+-0027FU
+T4
++2332TO
+T0
+'** 0
+-4232OU
+T3
++2838HI
+T0
+'** 0
+-5243KI
+T3
++3635FU
+T0
+'** 0
+-3435FU
+T4
++3726GI
+T0
+'** 0
+-4445FU
+T4
++4664KA
+T0
+'** 0
+-6364FU
+T3
++0034FU
+T0
+'** 0
+-4334KI
+T4
++2635GI
+T0
+'** 0
+-0037FU
+T5
++3534GI
+T0
+'** 0
+%TORYO
+'P1-KY-KE *  *  *  *  *  * -KY
+'P2 * -HI *  *  *  * -OU *  * 
+'P3-FU *  *  * -FU * -KE * -FU
+'P4 *  * -FU-FU *  * +GI *  * 
+'P5 * -FU *  *  * -FU *  *  * 
+'P6 *  * +FU *  *  *  *  * -GI
+'P7+FU+FU+GI+FU+FU+FU-FU-FU+KE
+'P8 *  * +KI * +OU * +HI *  * 
+'P9+KY+KE *  *  * +KI *  * +KY
+'P+00FU00GI00KI00KI
+'P-00FU00FU00KA00KA
+'-
+'summary:toryo:Azul_demo_pentium_1c win:agai lose
+'$END_TIME:2016/06/05 17:03:43

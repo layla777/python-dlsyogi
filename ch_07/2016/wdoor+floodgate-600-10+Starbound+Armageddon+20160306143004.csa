@@ -1,0 +1,270 @@
+V2
+N+Starbound
+N-Armageddon
+'Max_Moves:256
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-600-10+Starbound+Armageddon+20160306143004
+$START_TIME:2016/03/06 14:30:01
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:Starbound+231e06b12aae20c718d56297c17fce94:Armageddon+8f814634728f12331da7dff7d3cf0abd
+'black_rate:Starbound+231e06b12aae20c718d56297c17fce94:2750.0
+'white_rate:Armageddon+8f814634728f12331da7dff7d3cf0abd:2723.0
++2726FU
+T0
+'** 0
+-8384FU
+T3
++7776FU
+T8
+'** 110
+-4132KI
+T4
++6978KI
+T24
+'** 67
+-3334FU
+T2
++2625FU
+T22
+'** 81
+-8485FU
+T1
++2524FU
+T18
+'** 39
+-2324FU
+T2
++2824HI
+T40
+'** 39
+-8586FU
+T1
++8786FU
+T12
+'** 52
+-8286HI
+T2
++5958OU
+T11
+'** 52
+-5152OU
+T2
++2434HI
+T54
+'** 68
+-2233KA
+T2
++4938KI
+T25
+'** 33
+-3122GI
+T3
++3948GI
+T16
+'** 33
+-8676HI
+T72
++3436HI
+T16
+'** 39
+-7636HI
+T53
++3736FU
+T0
+'** 55
+-0026FU
+T2
++0028FU
+T8
+'** 123
+-6172KI
+T13
++3635FU
+T19
+'** 147
+-7162GI
+T19
++4837GI
+T16
+'** 113
+-1314FU
+T16
++3534FU
+T17
+'** 184
+-3388UM
+T3
++7988GI
+T38
+'** 127
+-1415FU
+T1
++0084FU
+T27
+'** 104
+-0082FU
+T9
++0066KA
+T22
+'** 54
+-1516FU
+T100
++0025HI
+T16
+'** 4
+-0044KA
+T208
++6644KA
+T5
+'** -21
+-4344FU
+T3
++3433TO
+T6
+'** -21
+-2133KE
+T2
++0034KA
+T10
+'** 59
+-5242OU
+T14
++2522RY
+T15
+'** 59
+-3222KI
+T1
++3461UM
+T8
+'** 59
+-7271KI
+T1
++0043GI
+T7
+'** 59
+-4231OU
+T1
++6152UM
+T12
+'** -3
+-3121OU
+T29
++4342NG
+T7
+'** -3
+-3345KE
+T20
++3746GI
+T12
+'** -73
+-0037FU
+T11
++3839KI
+T9
+'** 54
+-2627TO
+T5
++2827FU
+T10
+'** 185
+-0028FU
+T6
++2937KE
+T8
+'** 354
+-2829TO
+T5
++3929KI
+T8
+'** 307
+-4537NK
+T7
++4637GI
+T6
+'** 602
+-0055KE
+T1
++0034KE
+T7
+'** 374
+-2233KI
+T5
++5241UM
+T28
+'** -103
+-2112OU
+T7
++2938KI
+T6
+'** -141
+-3334KI
+T5
++3726GI
+T17
+'** -469
+-0075KE
+T7
++8483TO
+T7
+'** -866
+-7567NK
+T2
++7867KI
+T9
+'** -1539
+-5567NK
+T1
++5867OU
+T9
+'** -1966
+-0069HI
+T1
++0068FU
+T9
+'** -1683
+-6989RY
+T3
++0087FU
+T9
+'** -1740
+-8988RY
+T3
++0024KE
+T9
+'** -2332
+-3424KI
+T2
++4123UM
+T9
+'** -4087
+-2423KI
+T1
++0069KE
+T9
+'** -4534
+-0049KA
+T2
+%TORYO
+'P1-KY-KE-KI *  *  *  *  * -KY
+'P2 * -FU * -GI * +NG *  * -OU
+'P3-FU+TO-FU-FU-FU *  * -KI * 
+'P4 *  *  *  *  * -FU *  *  * 
+'P5 *  *  *  *  *  *  *  *  * 
+'P6 *  *  *  *  *  *  * +GI-FU
+'P7+FU+FU * +OU+FU+FU * +FU+FU
+'P8 * -RY * +FU *  * +KI *  * 
+'P9+KY *  * +KE * -KA *  * +KY
+'P+00FU00FU
+'P-00FU00GI00HI00KA00KE00KE00KI
+'+
+'summary:toryo:Starbound lose:Armageddon win
+'$END_TIME:2016/03/06 14:52:50

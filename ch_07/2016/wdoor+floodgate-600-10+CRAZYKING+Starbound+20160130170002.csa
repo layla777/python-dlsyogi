@@ -1,0 +1,292 @@
+V2
+N+CRAZYKING
+N-Starbound
+'Max_Moves:256
+'Least_Time_Per_Move:0
+$EVENT:wdoor+floodgate-600-10+CRAZYKING+Starbound+20160130170002
+$START_TIME:2016/01/30 17:00:01
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:CRAZYKING+d554f7bb7be44a7267068a7df88ddd20:Starbound+231e06b12aae20c718d56297c17fce94
+'black_rate:CRAZYKING+d554f7bb7be44a7267068a7df88ddd20:2977.0
+'white_rate:Starbound+231e06b12aae20c718d56297c17fce94:2606.0
++9796FU
+T8
+-8384FU
+T0
+'** 0
++3948GI
+T2
+-8485FU
+T24
+'** -42
++6978KI
+T2
+-4132KI
+T22
+'** -32
++2726FU
+T1
+-3334FU
+T43
+'** -18
++2625FU
+T2
+-3142GI
+T26
+'** -56
++2524FU
+T4
+-2324FU
+T0
+'** -56
++2824HI
+T4
+-4233GI
+T18
+'** -66
++2428HI
+T4
+-0024FU
+T21
+'** -82
++4746FU
+T6
+-7162GI
+T20
+'** -79
++4847GI
+T4
+-5354FU
+T53
+'** -40
++7968GI
+T4
+-2231KA
+T16
+'** -50
++7776FU
+T4
+-8586FU
+T20
+'** -30
++8786FU
+T3
+-3186KA
+T10
+'** -32
++0087FU
+T6
+-8664KA
+T19
+'** -40
++6766FU
+T4
+-4344FU
+T17
+'** -40
++6665FU
+T8
+-6442KA
+T14
+'** -16
++3736FU
+T5
+-6152KI
+T13
+'** 4
++2937KE
+T4
+-5243KI
+T16
+'** 7
++5969OU
+T4
+-6364FU
+T13
+'** 27
++0025FU
+T14
+-6465FU
+T11
+'** 12
++4756GI
+T4
+-3435FU
+T24
+'** -149
++2524FU
+T4
+-3536FU
+T11
+'** -149
++2423TO
+T9
+-3637TO
+T6
+'** 28
++2332TO
+T4
+-3728TO
+T23
+'** -229
++0034FU
+T3
+-4334KI
+T5
+'** -235
++0043KI
+T5
+-6253GI
+T11
+'** -240
++8897KA
+T43
+-0029HI
+T6
+'** -112
++4959KI
+T54
+-0066KE
+T9
+'** -44
++5667GI
+T28
+-0086FU
+T15
+'** 73
++9786KA
+T22
+-6678NK
+T16
+'** 308
++6978OU
+T8
+-0052KI
+T12
+'** 308
++4353KI
+T6
+-4253KA
+T11
+'** 458
++8653UM
+T22
+-5253KI
+T7
+'** 517
++0071KA
+T5
+-8252HI
+T3
+'** 517
++7153UM
+T6
+-5253HI
+T29
+'** 580
++0064GI
+T2
+-5152OU
+T3
+'** 670
++6453GI
+T5
+-5253OU
+T19
+'** 676
++0051HI
+T2
+-0052KI
+T4
+'** 398
++0064KI
+T4
+-5364OU
+T8
+'** 794
++5152RY
+T36
+-0086FU
+T6
+'** 803
++5262RY
+T16
+-0063KI
+T9
+'** -36
++0075KI
+T5
+-6455OU
+T0
+'** -161
++0058KE
+T4
+-8687TO
+T9
+'** 784
++7887OU
+T5
+-0086FU
+T9
+'** 784
++8777OU
+T4
+-4445FU
+T9
+'** 856
++6263RY
+T4
+-2959RY
+T9
+'** 913
++6859GI
+T18
+-0087KI
+T9
+'** 1248
++7768OU
+T5
+-5544OU
+T9
+'** 1466
++0036FU
+T9
+-0043GI
+T9
+'** 1934
++0041HI
+T6
+-3342GI
+T9
+'** 5520
++4142RY
+T5
+-8778KI
+T9
+'** 7856
++6778GI
+T4
+%TORYO
+'P1-KY-KE *  *  *  *  * -KE-KY
+'P2 *  *  *  *  * +RY+TO *  * 
+'P3-FU * -FU+RY * -GI *  * -FU
+'P4 *  *  *  * -FU-OU-KI *  * 
+'P5 *  * +KI-FU * -FU *  *  * 
+'P6+FU-FU+FU *  * +FU+FU *  * 
+'P7 *  *  *  * +FU *  *  * +FU
+'P8 *  * +GI+OU+KE *  * -TO * 
+'P9+KY+KE *  * +GI *  *  * +KY
+'P+00FU00GI00KI00KI
+'P-00FU00FU00KA00KA
+'-
+'summary:toryo:CRAZYKING win:Starbound lose
+'$END_TIME:2016/01/30 17:19:53

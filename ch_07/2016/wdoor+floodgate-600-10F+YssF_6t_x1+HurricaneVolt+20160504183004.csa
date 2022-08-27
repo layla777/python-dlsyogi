@@ -1,0 +1,345 @@
+V2
+N+YssF_6t_x1
+N-HurricaneVolt
+'Max_Moves:256
+'Least_Time_Per_Move:0
+'Increment:10
+$EVENT:wdoor+floodgate-600-10F+YssF_6t_x1+HurricaneVolt+20160504183004
+$START_TIME:2016/05/04 18:30:02
+P1-KY-KE-GI-KI-OU-KI-GI-KE-KY
+P2 * -HI *  *  *  *  * -KA * 
+P3-FU-FU-FU-FU-FU-FU-FU-FU-FU
+P4 *  *  *  *  *  *  *  *  * 
+P5 *  *  *  *  *  *  *  *  * 
+P6 *  *  *  *  *  *  *  *  * 
+P7+FU+FU+FU+FU+FU+FU+FU+FU+FU
+P8 * +KA *  *  *  *  * +HI * 
+P9+KY+KE+GI+KI+OU+KI+GI+KE+KY
++
+'rating:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:HurricaneVolt+4d2975b766a2dde6e4b9208679426ade
+'black_rate:YssF_6t_x1+707d4f98d9d2620cdaab58f19d02a2e4:2986.0
+'white_rate:HurricaneVolt+4d2975b766a2dde6e4b9208679426ade:2940.0
++7776FU
+T0
+'** 0 7g7f
+-8384FU
+T0
+'** 0
++7968GI
+T0
+'** 0 7i6h
+-7162GI
+T6
+'** 145
++6766FU
+T0
+'** 0 6g6f
+-3334FU
+T7
+'** 144
++5756FU
+T0
+'** 0 5g5f
+-5142OU
+T1
+'** 122
++6978KI
+T0
+'** 0 6i7h
+-4232OU
+T9
+'** 37
++2726FU
+T20
+'** 49 2g2f 2b3c 3i4h 1a1b 6h7g 3b2b 5i6i 2b1a 2f2e 3a2b 8h7i
+-3142GI
+T0
+'** -5
++5969OU
+T6
+'** 23 5i6i 7c7d 3i4h 6a5b 4i5h 5c5d 3g3f 4c4d 2i3g 5b4c 4g4f
+-4233GI
+T12
+'** -23
++3948GI
+T20
+'** 15 3i4h 5c5d 4h5g 6a5b 5g4f 4c4d 5f5e 6b5c 5e5d 5c5d 2h5h
+-6152KI
+T0
+'** -7
++3736FU
+T20
+'** 11 3g3f 5c5d 4i5h 2b3a 2i3g 7c7d 6h7g 8a7c 8h7i 4c4d 4g4f
+-7374FU
+T6
+'** 47
++4857GI
+T20
+'** 27 4h5g 5c5d 5g4f 8d8e 8h7i 4c4d 6h7g 5b4c 4i5h 2b3a 2i3g
+-5354FU
+T28
+'** 10
++5746GI
+T0
+'** 59 5g4f 8a7c 3f3e 3d3e 2f2e 4c4d 7f7e 7d7e 4f3e 5b4c 2e2d
+-4344FU
+T7
+'** -42
++5655FU
+T20
+'** 60 5f5e 6b5c 5e5d 5c5d P*5e 5d4c 6h6g 8a7c 2h5h 2b3a 2i3g
+-6253GI
+T24
+'** -53
++6867GI
+T0
+'** 32 6h6g 5d5e 4f5e 5b4c 2i3g 2b3a 2h5h P*5d 5e4f 8d8e 8h7g
+-5455FU
+T34
+'** -136
++2937KE
+T5
+'** 0 2i3g 5b4c 2h5h 5c5d 6f6e 3c4b 4f5e 4b5c 5e5d 5c5d S*5e
+-5243KI
+T34
+'** -196
++4655GI
+T5
+'** -16 4f5e 8d8e 8h7g 2b3a 7g6h P*5d 5e4f 5c6d 3g2e 3c2d 3f3e
+-0054FU
+T47
+'** -140
++5546GI
+T17
+'** 44 5e4f 8d8e 8h7g 2b3a 6i7i 7d7e 7f7e 5c6d 7e7d 8b7b 3g2e
+-8485FU
+T60
+'** -159
++8877KA
+T0
+'** 60 8h7g 2b3a 2h3h 3c2d 6i7i 3b2b 3g2e 4a3b 7i8h 7d7e 3f3e
+-2231KA
+T18
+'** -182
++2838HI
+T0
+'** 33 2h3h 3c2d 6i7i 5c6d 6f6e 6d5c 7i8h 1c1d P*5e 8a7c 7g9e
+-7475FU
+T25
+'** -216
++7675FU
+T33
+'** 215 7f7e 3c2d 3g2e 2d2e 2f2e 4d4e 4f4e N*5g 6i7i 5g4i+ 3f3e
+-5364GI
+T146
+'** -46
++7574FU
+T34
+'** 271 7e7d 8b7b 3f3e 2c2d 2f2e 7b7d 3h2h 2d2e 3g2e 3c2d 7g6h
+-6475GI
+T29
+'** 3
++7473TO
+T40
+'** 298 7d7c+ 8a7c P*7d 3a6d 7g9e P*7b 7d7c+ 6d7c 9e6h 8e8f 8g8f
+-8173KE
+T0
+'** -72
++0074FU
+T12
+'** 280 P*7d 3a6d 7d7c+ 6d7c P*7d 7c5a N*6e 8e8f 8g8f P*7b 3g2e
+-3164KA
+T6
+'** -106
++7795KA
+T6
+'** 357 7g9e P*7b 7d7c+ 7b7c 6f6e 8e8f 6e6d 8f8g+ 9e7c+ 8g7h 6i7h
+-0077FU
+T10
+'** -149
++7473TO
+T40
+'** 602 7d7c+ 7g7h+ 3h7h 7e8d 7c8b 8d9e R*8a 8e8f 7h7a+ G*4b 3g2e
+-7778TO
+T8
+'** -164
++3878HI
+T32
+'** 484 3h7h 8e8f 7c8b 8f8g+ R*7b 4c4b 7h7e 6d7e 7b7e+ R*8h 7e7i
+-8586FU
+T14
+'** 86
++7382TO
+T25
+'** 540 7c8b 8f8g+ R*7b 4c4b 7h7e 6d7e 7b7e+ R*8h 7e7i 8h2h+ 3g2e
+-8687TO
+T20
+'** 215
++0072HI
+T19
+'** 632 R*7b G*4b 7h7e 6d7e 7b7e+ R*8h 7e7i 8h2h+ 7i7a P*8h P*5b
+-3342GI
+T21
+'** 240
++7875HI
+T40
+'** 766 7h7e 6d7e 7b7e+ R*8h 7e7i 8h2h+ 7i7a P*8h 6i5i 2h1i 5i4h
+-6475KA
+T41
+'** 293
++7275RY
+T0
+'** 794 7b7e+ R*8h 7e7i 8h2h+ 7i7a P*8h 6i5i 2h1i 5i4h 1i2h 4i3h
+-0088HI
+T72
+'** 314
++7579RY
+T0
+'** 965 7e7i 8h2h+ 7i7a 9c9d 9e6h 2h1i 6i5h P*7g P*7i L*5e P*5f
+-8828RY
+T22
+'** 131
++7971RY
+T17
+'** 959 7i7a P*7f S*3h 2h1i 6i5h G*2h N*1e L*2b 5h4h 2h3h 4i3h
+-0077FU
+T26
+'** 264
++0058GI
+T40
+'** 1024 S*5h 2h1i 6i6h L*4h 4i4h 1i8i 6h5g 7g7h+ N*1e N*3a L*2e
+-0039KI
+T7
+'** 253
++4959KI
+T40
+'** 1441 4i5i 2h1i 8i7g 3i3h 8b9a 3h4h L*4i 4h5i 6i5i 8g7g 9e7g
+-2819RY
+T8
+'** 616
++0015KE
+T31
+'** 1543 N*1e L*5a 8b9a 3i3h P*5b 4a5b L*2e 2c2d 2e2d P*2b 8i7g
+-4131KI
+T21
+'** 563
++0053FU
+T40
+'** 1620 P*5c 4c5c 8i7g 3i3h 7g6e 5c4c P*5c 1c1d 5c5b+ 1d1e 5b4b
+-4353KI
+T9
+'** 682
++8977KE
+T30
+'** 1550 8i7g 3i3h 7g6e 5c4c P*5c 1c1d 5c5b+ 1d1e 5b4b 4c4b S*5c
+-3938KI
+T55
+'** 993
++7765KE
+T0
+'** 1633 7g6e 5c4c 8b9a P*7g P*5c 3h4h L*4i 8g7h 6g7h 7g7h+ 7a7h
+-5343KI
+T16
+'** 1007
++8291TO
+T24
+'** 1831 8b9a P*7f 6g7f 9c9d 9e6h 1i1g 1e2c 3b2c 7f8g N*5f 6h8f
+-3848KI
+T13
+'** 749
++0049KY
+T40
+'** 2191 L*4i 4h5i 6i5i 1i3i P*5c L*5a 5c5b+ 5a5b 9e6b+ G*4a P*5c
+-4859KI
+T2
+'** 895
++6959OU
+T37
+'** 2307 6i5i 1i1g G*5c 1g1e 5c4c 4b4c 9e5a+ G*4b 6e5c+ G*4a 5c4b
+-0051KY
+T8
+'** 1095
++0052FU
+T40
+'** 3085 P*5b 5a5b P*5c 5b5c 6e5c+ 4c5c L*2e 8g9g 2e2c+ 3b4c G*2e
+-1917RY
+T4
+'** 2059
++5251TO
+T40
+'** 3648 5b5a+ 1g1e G*4a 3b2b 4a3a 4b3a 5a4a 8g7g 9e7g G*3b G*5c
+-1715RY
+T10
+'** 2257
++0041KI
+T29
+'** 3669 G*4a 3b2b 4a3a 4b3a 5a4a 8g7g 9e7g G*3b 7g8f P*7e P*1b
+-3222OU
+T11
+'** 2324
++4131KI
+T18
+'** 4151 4a3a 4b3a 5a4a 8g7g 9e7g G*3b 7g8f P*7e 8f7e G*6d 7e9c+
+-4231GI
+T13
+'** 2751
++5141TO
+T0
+'** 4134 5a4a 8g7g 9e7g G*3b 7g8f P*7e 8f7e G*6d 7e9c+ N*5e 4f5e
+-0032KI
+T2
+'** 2751
++4131TO
+T40
+'** 4385 4a3a 3b3a S*5b G*3b 5b4c+ 3b4c 7a3a 2b3a 9e5a+ R*7i G*6i
+-3231KI
+T3
+'** 3129
++0052GI
+T36
+'** 4639 S*5b G*4b 7a3a 2b3a 5b4c+ 4b4c 9e5a+ R*7i G*6i 7i7b+ 5a1e
+-4342KI
+T4
+'** 2477
++7131RY
+T40
+'** 5993 7a3a 2b3a 9e5a+ R*8i L*6i 4b5b G*4a 3a3b G*3a 3b2b 5a1e
+-2231OU
+T2
+'** 2713
++9551UM
+T38
+'** 6346 9e5a+ G*6h 5i6h 8g7g 6h5g 7g6g 5h6g R*5i G*5h S*3c 5h5i
+-0079HI
+T9
+'** 3988
++0069KY
+T30
+'** 7383 L*6i G*6h 5i6h 8g7h 6g7h 7i7h+ 6h7h P*7g 7h7g P*7f 7g7f
+-7969RY
+T6
+'** 4901
++5869GI
+T30
+'** 9131 5h6i 1e5e 4f5e L*5g 5i6h G*7g 6h5g 7g6g 5g6g S*5f 6g5f
+-0055KY
+T7
+'** 7375
++0058FU
+T20
+'** 29968 P*5h 5e5h+ 6i5h G*6h 5i6h 8g7g 6h7g N*8e 7g6h 4b3b R*4a
+%TORYO
+'P1+TO *  *  * +UM * -OU-KE-KY
+'P2 *  *  *  * +GI-KI *  *  * 
+'P3-FU *  * -FU *  *  * -FU-FU
+'P4 *  *  *  * -FU-FU-FU *  * 
+'P5 *  *  * +KE-KY *  *  * -RY
+'P6 *  *  * +FU * +GI+FU+FU * 
+'P7+FU-TO * +GI * +FU+KE *  * 
+'P8 *  *  *  * +FU *  *  *  * 
+'P9+KY *  * +GI+OU+KY *  *  * 
+'P+00HI00KA00KI00KI
+'P-00FU00FU00FU00KE00KI
+'-
+'summary:toryo:YssF_6t_x1 win:HurricaneVolt lose
+'$END_TIME:2016/05/04 19:04:47
