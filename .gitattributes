@@ -1,0 +1,16 @@
+ch_07/game_list_2015_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2015_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2016_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2016_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2017_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2017_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2018_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2018_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2019_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2019_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2020_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2020_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2021_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2021_train.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2022_test.pickle filter=lfs diff=lfs merge=lfs -text
+ch_07/game_list_2022_train.pickle filter=lfs diff=lfs merge=lfs -text
