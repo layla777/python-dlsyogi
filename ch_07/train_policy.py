@@ -44,7 +44,7 @@ if args.resume:
     logging.info(f'Loading optimizer state from {args.resume}')
     serializers.load_npz(args.resume, optimizer)
 
-logging.info('started reading kifu')
+logging.info(f'started reading games from {args.kiulist_train}')
 
 # train data
 train_pickle_filename = re.sub(r'\..*?$', '', args.kifulist_train) + '.pickle'
@@ -67,13 +67,13 @@ else:
 # save pickle file if it does not exist
 if not os.path.exists(train_pickle_filename):
     with open(train_pickle_filename, 'wb') as f:
-        pickle.dump(positions_train, f, pickle.HIGHEST_PROTOCOL)
+        pickle.dump(positions_train, f, 3)
     logging.info('saved train pickle')
 if not os.path.exists(test_pickle_filename):
     with open(test_pickle_filename, 'wb') as f:
-        pickle.dump(positions_test, f, pickle.HIGHEST_PROTOCOL)
+        pickle.dump(positions_test, f, 3)
     logging.info('saved test pickle')
-logging.info('finished reading kifu')
+logging.info('finished reading games')
 
 logging.info(f'train position num = {len(positions_train)}')
 logging.info(f'test position num = {len(positions_test)}')
