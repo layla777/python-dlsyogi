@@ -13,8 +13,8 @@ from pydlshogi.network.policy import PolicyNetwork
 from pydlshogi.read_kifu import *
 
 parser = argparse.ArgumentParser()
-parser.add_argument('kifulist_train', type=str, help='train kifu list')
-parser.add_argument('kifulist_test', type=str, help='test kifu list')
+parser.add_argument('gamelist_train', type=str, help='train game list')
+parser.add_argument('gamelist_test', type=str, help='test game list')
 parser.add_argument('--batchsize', '-b', type=int, default=32, help='Number of positions in each mini-batch')
 parser.add_argument('--test_batchsize', type=int, default=512, help='Number of positions in each test mini-batch')
 parser.add_argument('--epoch', '-e', type=int, default=1, help='Number of epoch times')
@@ -44,25 +44,25 @@ if args.resume:
     logging.info(f'Loading optimizer state from {args.resume}')
     serializers.load_npz(args.resume, optimizer)
 
-logging.info(f'started reading games from {args.kiulist_train}')
+logging.info(f'started reading games from {args.gamelist_train}')
 
 # train data
-train_pickle_filename = re.sub(r'\..*?$', '', args.kifulist_train) + '.pickle'
+train_pickle_filename = re.sub(r'\..*?$', '', args.gamelist_train) + '.pickle'
 if os.path.exists(train_pickle_filename):
     with open(train_pickle_filename, 'rb') as f:
         positions_train = pickle.load(f)
     logging.info('loading train pickle')
 else:
-    positions_train = read_kifu(args.kifulist_train)
+    positions_train = read_kifu(args.gamelist_train)
 
 # test data
-test_pickle_filename = re.sub(r'\..*?$', '', args.kifulist_test) + '.pickle'
+test_pickle_filename = re.sub(r'\..*?$', '', args.gamelist_test) + '.pickle'
 if os.path.exists(test_pickle_filename):
     with open(test_pickle_filename, 'rb') as f:
         positions_test = pickle.load(f)
     logging.info('loading test pickle')
 else:
-    positions_test = read_kifu(args.kifulist_test)
+    positions_test = read_kifu(args.gamelist_test)
 
 # save pickle file if it does not exist
 if not os.path.exists(train_pickle_filename):
