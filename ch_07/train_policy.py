@@ -9,7 +9,7 @@ import chainer.functions as F
 from chainer import Variable
 from chainer import optimizers, serializers
 
-from pydlshogi.network.policy import PolicyNetwork
+from pydlshogi.network.policy_bn import PolicyNetwork
 from pydlshogi.read_kifu import *
 
 parser = argparse.ArgumentParser()
@@ -33,7 +33,7 @@ logging.basicConfig(format='%(asctime)s\t%(levelname)s\t%(message)s', datefmt='%
 model = PolicyNetwork()
 # model.to_gpu()
 
-optimizer = optimizers.SGD(lr=args.lr)
+optimizer = optimizers.MomentumSGD(lr=args.lr)
 optimizer.setup(model)
 
 # Init / Resume
@@ -43,6 +43,8 @@ if args.initmodel:
 if args.resume:
     logging.info(f'Loading optimizer state from {args.resume}')
     serializers.load_npz(args.resume, optimizer)
+
+logging.info(f'Learning ragte = {args.lr}')
 
 logging.info(f'started reading games from {args.gamelist_train}')
 
