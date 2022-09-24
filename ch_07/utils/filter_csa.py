@@ -16,13 +16,15 @@ def find_all_files(directory):
 
 ptn_rate = re.compile(r"^'(black|white)_rate:.*:(.*)$")
 
-kifu_count = 0
+game_count = 0
 rates = []
+
+print(f'filtering {args.dir}/')
 
 for filepath in find_all_files(args.dir):
     rate = {}
     move_len = 0
-    toryo = False
+    has_resigned = False
 
     for line in open(filepath, 'r', encoding='utf-8'):
         line = line.strip()
@@ -32,15 +34,15 @@ for filepath in find_all_files(args.dir):
         if line[:1] == '+' or line[:1] == '-':
             move_len += 1
         if line == '%TORYO':
-            toryo = True
+            has_resigned = True
 
-    if not toryo or move_len <= 50 or len(rate) < 2 or min(rate.values()) < 2500:
+    if not has_resigned or move_len <= 50 or len(rate) < 2 or min(rate.values()) < 3500:
         os.remove(filepath)
     else:
-        kifu_count += 1
+        game_count += 1
         rates.extend([_ for _ in rate.values()])
 
-print('kifu count:', kifu_count)
+print('games count:', game_count)
 print(f'rate mean: {statistics.mean(rates)}')
 print(f'rate median: {statistics.median(rates)}')
 print(f'rate max: {max(rates)}')
