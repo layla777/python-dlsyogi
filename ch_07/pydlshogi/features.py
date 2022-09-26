@@ -80,3 +80,16 @@ def make_features(position):
     features = make_input_features(piece_bb, occupied, pieces_in_hand)
 
     return features, move, win
+
+
+def make_input_features_from_board(board: shogi.Board):
+    if board.turn == shogi.BLACK:
+        piece_bb = board.piece_bb
+        occupied = (board.occupied[shogi.BLACK], board.occupied[shogi.WHITE])
+        pieces_in_hand = (board.pieces_in_hand[shogi.BLACK], board.pieces_in_hand[shogi.BLACK])
+    else:
+        piece_bb = [bb_rotate_180(bb) for bb in board.piece_bb]
+        occupied = (bb_rotate_180(board.occupied[shogi.WHITE]), bb_rotate_180(board.occupied[shogi.BLACK]))
+        pieces_in_hand = (board.pieces_in_hand[shogi.WHITE], board.pieces_in_hand[shogi.BLACK])
+
+    return make_input_features(piece_bb, occupied, pieces_in_hand)
