@@ -92,7 +92,7 @@ def mini_batch(positions, i, batchsize):
     return (Variable(np.array(mini_batch_data, dtype=np.float32)),
             Variable(np.array(mini_batch_win, dtype=np.int32).reshape((-1, 1))))
     # return (Variable(cuda.to_gpu(np.array(mini_batch_data, dtype=np.float32))),
-    #         Variable(cuda.to_gpu(np.array(mini_batch_win, dtype=np.int32).reshape((-1, 1)))
+    #         Variable(cuda.to_gpu(np.array(mini_batch_win, dtype=np.int32).reshape((-1, 1)))))
 
 
 def mini_batch_for_test(positions, batchsize):
@@ -106,7 +106,7 @@ def mini_batch_for_test(positions, batchsize):
     return (Variable(np.array(mini_batch_data, dtype=np.float32)),
             Variable(np.array(mini_batch_win, dtype=np.int32).reshape(-1, 1)))
     # return (Variable(cuda.to_gpu(np.array(mini_batch_data, dtype=np.float32))),
-    #         Variable(cuda.to_gpu(np.array(mini_batch_win, dtype=np.int32).reshape((-1, 1)))
+    #         Variable(cuda.to_gpu(np.array(mini_batch_win, dtype=np.int32).reshape((-1, 1)))))
 
 
 # train

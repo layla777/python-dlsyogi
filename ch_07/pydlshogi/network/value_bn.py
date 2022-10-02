@@ -40,8 +40,8 @@ class ValueNetwork(Chain):
             self.norm10 = L.BatchNormalization(ch)
             self.norm11 = L.BatchNormalization(ch)
             self.norm12 = L.BatchNormalization(ch)
-            self.norm13 = L.BatchNormalization(ch)
-            self.norm14 = L.BatchNormalization(9 * 9 * MOVE_DIRECTION_LABEL_NUM)
+            self.norm13 = L.BatchNormalization(MOVE_DIRECTION_LABEL_NUM)
+            self.norm14 = L.BatchNormalization(fcl)
 
     def __call__(self, X):
         h1 = F.relu(self.norm1(self.l1(X)))
