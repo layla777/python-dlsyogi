@@ -28,6 +28,21 @@ class ValueNetwork(Chain):
             self.l14_v = L.Linear(9 * 9 * MOVE_DIRECTION_LABEL_NUM, fcl)
             self.l15_v = L.Linear(fcl, 1)
 
+            self.norm1 = L.BatchNormalization(ch)
+            self.norm2 = L.BatchNormalization(ch)
+            self.norm3 = L.BatchNormalization(ch)
+            self.norm4 = L.BatchNormalization(ch)
+            self.norm5 = L.BatchNormalization(ch)
+            self.norm6 = L.BatchNormalization(ch)
+            self.norm7 = L.BatchNormalization(ch)
+            self.norm8 = L.BatchNormalization(ch)
+            self.norm9 = L.BatchNormalization(ch)
+            self.norm10 = L.BatchNormalization(ch)
+            self.norm11 = L.BatchNormalization(ch)
+            self.norm12 = L.BatchNormalization(ch)
+            self.norm13 = L.BatchNormalization(ch)
+            self.norm14 = L.BatchNormalization(9 * 9 * MOVE_DIRECTION_LABEL_NUM)
+
     def __call__(self, X):
         h1 = F.relu(self.norm1(self.l1(X)))
         h2 = F.relu(self.norm2(self.l2(h1)))

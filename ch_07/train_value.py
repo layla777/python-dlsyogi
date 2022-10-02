@@ -9,7 +9,7 @@ import chainer.functions as F
 from chainer import Variable
 from chainer import optimizers, serializers
 
-from pydlshogi.network.value import ValueNetwork
+from pydlshogi.network.value_bn import ValueNetwork
 from pydlshogi.read_kifu import *
 
 parser = argparse.ArgumentParser()
