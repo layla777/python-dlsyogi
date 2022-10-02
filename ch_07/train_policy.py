@@ -33,7 +33,7 @@ logging.basicConfig(format='%(asctime)s\t%(levelname)s\t%(message)s', datefmt='%
 model = PolicyNetwork()
 # model.to_gpu()
 
-optimizer = optimizers.MomentumSGD(lr=args.lr)
+optimizer = optimizers.Adam()
 optimizer.setup(model)
 
 # Init / Resume
@@ -91,6 +91,8 @@ def mini_batch(positions, i, batchsize):
         mini_batch_move.append(move)
     return (Variable(np.array(mini_batch_data, dtype=np.float32)),
             Variable(np.array(mini_batch_move, dtype=np.int32)))
+    # return (Variable(cuda.to_gpu(np.array(mini_batch_data, dtype=np.float32))),
+    #         Variable(cuda.to_gpu(np.array(mini_batch_move, dtype=np.int32))))
 
 
 def mini_batch_for_test(positions, batchsize):
@@ -103,6 +105,8 @@ def mini_batch_for_test(positions, batchsize):
 
     return (Variable(np.array(mini_batch_data, dtype=np.float32)),
             Variable(np.array(mini_batch_move, dtype=np.int32)))
+    # return (Variable(cuda.to_gpu(np.array(mini_batch_data, dtype=np.float32))),
+    #         Variable(cuda.to_gpu(np.array(mini_batch_move, dtype=np.int32))))
 
 
 # train
