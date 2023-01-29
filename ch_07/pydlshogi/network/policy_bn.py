@@ -38,7 +38,6 @@ class PolicyNetwork(Chain):
             self.norm10 = L.BatchNormalization(ch)
             self.norm11 = L.BatchNormalization(ch)
             self.norm12 = L.BatchNormalization(ch)
-            self.norm13 = L.BatchNormalization(ch)
 
 
     def __call__(self, x):
