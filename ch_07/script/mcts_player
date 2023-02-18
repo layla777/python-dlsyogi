@@ -1,0 +1,13 @@
+#!/bin/sh
+
+cd /Users/layla/PycharmProjects/python-dlsyogi/
+
+source .venv/bin/activate
+
+cd ch_07/
+
+pip install --no-cache-dir -e . > /dev/null 2>&1
+
+python -m pydlshogi.usi.usi_mcts_player
+
+deactivate
